@@ -1,5 +1,5 @@
-import getPhotos from 'js/fetch-photos';
-import onError from 'js/error';
+import getPhotos from './js/fetch-photos';
+import onError from './js/error';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
